@@ -16,7 +16,7 @@ li a {
   color: rgb(10, 10, 10);
 }
 .banner {
-  background-image: url(/img/banner.png);
+  background-image: url("..img/banner.png");
   text-align: center;
   background-position: center;
   background-repeat: no-repeat;
