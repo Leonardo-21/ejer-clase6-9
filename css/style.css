@@ -1,0 +1,77 @@
+* {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.ofertas {
+  background-color: #222222;
+  color: white;
+}
+
+.logo {
+  background-color: #f0a83e;
+}
+
+li a {
+  text-decoration: none;
+  color: rgb(10, 10, 10);
+}
+.banner {
+  background-image: url(/img/banner.png);
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px;
+}
+.t-1 {
+  font-size: 35px;
+  color: #3c2313;
+  font-weight: bold;
+}
+.boton {
+  background-color: #f0a83e;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 20px;
+  border-radius: 6px;
+}
+.lista {
+  text-align: center;
+}
+#horizontal li {
+  display: inline;
+  padding-left: 3px;
+  padding-right: 3px;
+  text-align: center;
+}
+
+.valor {
+  color: #f0a83e;
+}
+
+footer {
+  background-color: #3c2313;
+  height: auto;
+}
+.fas {
+  color: white;
+  padding-left: 20px;
+  padding-top: 25px;
+  font-size: 50px;
+  display: block;
+}
+.txt-pie {
+  color: white;
+  font-size: x-large;
+}
+.pequeño {
+  color: white;
+  font-size: small;
+}
+
+#derechos {
+  background-color: #f0a83e;
+  text-align: center;
+}
